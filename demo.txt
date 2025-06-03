@@ -1,1 +1,2 @@
-Hello GITgit remote -v /n EPAM-course-2025
+Hello GIT
+EPAM-course-2025
